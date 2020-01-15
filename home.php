@@ -1,0 +1,1 @@
+<p>SELAMAT DATANG <?php echo $_SESSION['username']; ?>.</p>
